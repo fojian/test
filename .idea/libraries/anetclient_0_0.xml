@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="anetclient-0.0">
+    <CLASSES>
+      <root url="file://E:/迅雷下载/apache-jmeter-3.0/apache-jmeter-3.0/lib/ext/anetclient-0.0.1-SNAPSHOT_lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/迅雷下载/apache-jmeter-3.0/apache-jmeter-3.0/lib/ext/anetclient-0.0.1-SNAPSHOT_lib" recursive="false" />
+  </library>
+</component>
